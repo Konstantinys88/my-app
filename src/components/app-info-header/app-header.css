@@ -1,0 +1,15 @@
+.app-header {
+    background: rgb(186, 175, 198);
+}
+
+.app-header-ul {
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    padding: 15px;
+    font-weight: 700;
+}
+
+li {
+    cursor: pointer;
+}
